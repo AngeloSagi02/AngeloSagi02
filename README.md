@@ -1,16 +1,29 @@
-## Hi there 👋
+# Angelo Saginario
 
-<!--
-**AngeloSagi02/AngeloSagi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Università degli Studi del Sannio (Benevento, Italy),
+graduating June 2026. Focus on cybersecurity and network security.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- B.Eng. Computer Engineering — Unisannio, 2021–2026 (thesis in progress)
+- Erasmus+ Internship — Mobile Street, Galway, Ireland (6 months)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Cybersecurity & Networking
+- Network Security: TLS/SSL, IPsec, VPN, Firewalls, NIDS, DNSsec
+- Cryptography: symmetric/asymmetric, digital signatures, key management
+- Protocols: TCP/IP, HTTP/2, QUIC/HTTP/3, socket programming, routing
+
+## 💻 Languages & Tools
+- **Languages:** C, C++, Java, Python, Assembly (x86, RISC-V), TypeScript
+- **Web:** Angular, Spring Boot, MongoDB, HTML5, CSS3
+- **Data:** Pandas, NumPy, Scikit-learn, Matplotlib
+- **Tools:** Git, MATLAB, Linux
+
+
+## 📜 Certifications
+- Cisco IT Essentials
+- Cisco CCNA NetAcad (course completed)
+- EIPASS
+
+## 🌍 Languages
+- Italian (native)
+- English (B2)
