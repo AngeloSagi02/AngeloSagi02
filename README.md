@@ -4,7 +4,7 @@ Computer Engineering student at Università degli Studi del Sannio (Benevento, I
 graduating June 2026. Focus on cybersecurity and network security.
 
 ## 🎓 Education
-- B.Eng. Computer Engineering — Unisannio, 2021–2026 (thesis in progress)
+- B.Eng. Computer Engineering — Unisannio, 2021–2026 
 - Erasmus+ Internship — Mobile Street, Galway, Ireland (6 months)
 
 ## 🔐 Cybersecurity & Networking
