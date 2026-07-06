@@ -41,9 +41,3 @@ Welcome to my GitHub profile! I am a **Computer Engineering Graduate** from the 
 - 🐙 **GitHub:** [github.com/AngeloSagi02](https://github.com/AngeloSagi02)
 
 ---
-
-## 📈 GitHub Stats
-![Angelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngeloSagi02&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloSagi02&layout=compact&theme=radical)
-
----
