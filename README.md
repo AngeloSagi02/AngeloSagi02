@@ -1,43 +1,65 @@
-# Angelo Saginario | Computer Engineer
+# Hi, I'm Angelo Saginario
 
-Welcome to my GitHub profile! I am a **Computer Engineering Graduate** from the *Università degli Studi del Sannio* (Benevento, Italy). I am passionate about building secure, reliable systems, with a strong focus on **DevOps**, **Backend Development**, and **Cybersecurity (Network Security & Threat Analysis)**.
+Computer Engineering graduate based in Benevento, Italy, with project-based experience in **software engineering**, **network security**, **data analytics**, and **applied AI**. I build with Java, Python, and C, and I am especially interested in secure software, networked systems, Android malware analysis, and LLM-based agents.
 
----
+I am currently looking for an entry-level opportunity in cybersecurity, software development, or agentic AI, with a preference for Naples and flexibility to relocate for the right role.
 
-## 🚀 About Me
-- 🎓 **Education:** B.Sc. in Computer Engineering (Ingegneria Informatica) from Università degli Studi del Sannio (Graduation: June 2026).
-- 🔐 **Core Interests:** Cyber Security, Network & Systems Security, Infrastructure Protection, CI/CD, and Distributed Systems.
-- 💡 **Background:** Experienced as an Academic Tutor (C, Java, Python) and completed a 6-month international internship in Galway, Ireland.
-- 📍 **Location:** Pietrelcina / Benevento, Italy (Open to roles across Italy).
+## What I work with
 
----
+- **Programming:** Java, Python, C, C++, JavaScript, SQL, RISC-V Assembly
+- **Software engineering:** object-oriented programming, algorithms and data structures, REST APIs, UML, design patterns, debugging, Git, Agile/Scrum
+- **Backend and frontend:** Spring Boot, Angular, MongoDB
+- **Data and machine learning:** Pandas, NumPy, Scikit-learn, Jupyter
+- **Networks and security:** TCP/IP, socket programming, TLS/SSL, firewalls, VPNs, cryptography, network security fundamentals
+- **Applied AI:** local LLMs, prompt design, LLM-assisted code transformation, introductory multi-agent orchestration
+- **Tools and platforms:** Linux, GitHub, MATLAB, Simulink
 
-## 🛠️ Technical Skills
+## Featured work
 
-### Programming Languages & Frameworks
-| Category | Technologies |
-|---|---|
-| **Languages** | Python, Java, C, C++, Bash, Assembly (x86, RISC-V), SQL |
-| **Backend & Web** | Spring Boot, Angular, HTML5, CSS3, JavaScript, TypeScript, JAX-RS |
-| **Databases** | MongoDB, SQLite |
-| **Data Science & ML** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+### AI Agent Reply Challenge 2026
 
-### Systems, DevOps & Networking
-- **Networking:** TCP/IP Protocols, OSI Model, Socket Programming, TLS/SSL, IPsec, VPN, DNSsec
-- **Security:** Malware Analysis, Threat Analysis, Firewalls, NIDS, Cryptography, AndroZoo & VirusTotal APIs
-- **Tools & Environments:** Linux/Unix, Git, MATLAB, LabVIEW, Cisco Packet Tracer (IT Essentials & CCNA Coursework)
-- **Methodologies:** Agile Scrum, Software Configuration Management, Unit Testing (Jasmine, Karma)
+A ReAct-style multi-agent prototype for transaction fraud and anomaly analysis. The project combines a data-analysis agent, an anomaly-detection engine, a secondary review agent, observability, and token-budget management.
 
----
+**Stack:** Python, LangChain, OpenRouter API, Langfuse, Jupyter  
+**Repository:** [AIAgentReplyChallenge2026](https://github.com/AngeloSagi02/AIAgentReplyChallenge2026)
 
-## 🏆 Certifications & Training
-- 🌐 **Cisco Networking Academy:** CCNA Coursework & IT Essentials (Configuring routing/switching protocols, network security principles).
-- 💻 **EIPASS:** European Informatics Passport.
+### Full-Stack Event Management Application
 
----
+A university team project for creating and managing events through an Angular frontend, Spring Boot backend, MongoDB persistence, REST APIs, and QR-code workflows.
 
-## 🔗 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/angelosaginario](https://www.linkedin.com/in/angelosaginario/)
-- 🐙 **GitHub:** [github.com/AngeloSagi02](https://github.com/AngeloSagi02)
+**Stack:** Java 17, Spring Boot, Spring Security, Angular 16, MongoDB  
+**Repository:** [event-manager-frontend](https://github.com/AngeloSagi02/event-manager-frontend)
 
----
+### Networked Systems Programming
+
+A collection of coursework implementations covering TCP clients and servers, concurrent and full-duplex communication, multi-user chat, HTTP services, servlets, and Spring-based client-server exercises.
+
+**Stack:** Java, TCP Socket API, threads, Servlets, HTTP, Spring Boot  
+**Repository:** [NetworkingBasics](https://github.com/AngeloSagi02/NetworkingBasics)
+
+### RISC-V Assembly Coursework
+
+Twenty-seven small programs exploring arithmetic, arrays, strings, control flow, bit manipulation, memory, and basic I/O using RISC-V assembly.
+
+**Stack:** RISC-V Assembly  
+**Repository:** [Computer-Architecture-Course-Assembly](https://github.com/AngeloSagi02/Computer-Architecture-Course-Assembly)
+
+## Research focus
+
+My bachelor's thesis investigated the generation of adversarial Android malware samples with a local Llama 3.1 model. I designed and evaluated a controlled pipeline for Smali transformations, APK recompilation, structural-integrity checks, and changes in multi-engine antivirus detection rates.
+
+The work explored dead-code injection, opaque predicates, benign dummy classes, string obfuscation, and reflection-based API calls in a controlled academic setting.
+
+## Background
+
+- **BSc in Computer Engineering**, University of Sannio — graduated in June 2026
+- **Hardware/Software Technical Assistant Intern**, Mobile Street, Galway — six-month Erasmus+ placement
+- **Computer Science Tutor** — supported university students with C, Java, Python, debugging, and problem solving
+
+## Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/angelosaginario/)
+- [GitHub](https://github.com/AngeloSagi02)
+- [Email](mailto:angelo.saginario02@gmail.com)
+
+I am open to junior roles, project collaborations, and conversations about software engineering, cybersecurity, and applied AI.
