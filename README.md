@@ -53,7 +53,6 @@ The work explored dead-code injection, opaque predicates, benign dummy classes, 
 ## Background
 
 - **BSc in Computer Engineering**, University of Sannio — graduated in June 2026
-- **Hardware/Software Technical Assistant Intern**, Mobile Street, Galway — six-month Erasmus+ placement
 - **Computer Science Tutor** — supported university students with C, Java, Python, debugging, and problem solving
 
 ## Let's connect
