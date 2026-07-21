@@ -76,21 +76,4 @@ The work explored dead-code injection, opaque predicates, benign dummy classes, 
 ## Background
 
 - **BSc in Computer Engineering**, University of Sannio — graduated in June 2026
-- **Hardware/Software Technical Assistant Intern**, Mobile Street, Galway — six-month Erasmus+ placement
 - **Computer Science Tutor** — supported university students with C, Java, Python, debugging, and problem solving
-
-## Let's connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/angelosaginario/">
-    <img src="https://img.shields.io/badge/LinkedIn-Angelo_Saginario-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Angelo Saginario on LinkedIn">
-  </a>
-  <a href="https://github.com/AngeloSagi02">
-    <img src="https://img.shields.io/badge/GitHub-AngeloSagi02-181717?style=flat-square&logo=github&logoColor=white" alt="AngeloSagi02 on GitHub">
-  </a>
-  <a href="mailto:angelo.saginario02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-angelo.saginario02%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email angelo.saginario02@gmail.com">
-  </a>
-</p>
-
-I am open to junior roles, project collaborations, and conversations about software engineering, cybersecurity, and applied AI.
