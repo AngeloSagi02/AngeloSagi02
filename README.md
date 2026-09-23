@@ -1,8 +1,8 @@
 # Hi, I'm Angelo Saginario
 
-Computer Engineering graduate based in Benevento, Italy, with project-based experience in **software engineering**, **network security**, **data analytics**, and **applied AI**. I build with Java, Python, and C, and I am especially interested in secure software, networked systems, Android malware analysis, and LLM-based agents.
+I'm a **Junior System Administrator L1/L2** and **Computer Engineering graduate**, based in Benevento, Italy. I work with Unix, VMware, Active Directory, and monitoring and service-management tools. Alongside system administration, I explore **software engineering**, **network security**, and **applied AI** through academic and personal projects.
 
-I am currently looking for an entry-level opportunity in cybersecurity, software development, or agentic AI, with a preference for Naples and flexibility to relocate for the right role.
+My interests connect infrastructure and code: understanding how systems communicate, troubleshooting problems, and building software with Java, Python, and C.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/angelosaginario/">
@@ -16,9 +16,24 @@ I am currently looking for an entry-level opportunity in cybersecurity, software
   </a>
 </p>
 
-## What I work with
+## Current role
+
+**Junior System Administrator L1/L2 | Accenture assignment through Gi Group**  
+September 2026–present · Naples, Italy · Hybrid
+
+My current environment includes:
+
+- **Systems and virtualization:** Unix, VMware, Windows Active Directory
+- **Monitoring tools:** Zabbix, Alerta
+- **Service management and workspace access:** ServiceNow, Citrix Workspace
+
+## Technical toolkit
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Unix-333333?style=flat-square" alt="Unix">
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square" alt="VMware">
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square" alt="Zabbix">
+  <img src="https://img.shields.io/badge/ServiceNow-17634B?style=flat-square" alt="ServiceNow">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
@@ -29,15 +44,17 @@ I am currently looking for an entry-level opportunity in cybersecurity, software
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-- **Programming:** Java, Python, C, C++, JavaScript, SQL, RISC-V Assembly
-- **Software engineering:** object-oriented programming, algorithms and data structures, REST APIs, UML, design patterns, debugging, Git, Agile/Scrum
-- **Backend and frontend:** Spring Boot, Angular, MongoDB
-- **Data and machine learning:** Pandas, NumPy, Scikit-learn, Jupyter
-- **Networks and security:** TCP/IP, socket programming, TLS/SSL, firewalls, VPNs, cryptography, network security fundamentals
-- **Applied AI:** local LLMs, prompt design, LLM-assisted code transformation, introductory multi-agent orchestration
-- **Tools and platforms:** Linux, GitHub, MATLAB, Simulink
+My academic, training, and project background also includes:
 
-## Featured work
+- **Systems training:** Linux Server, Windows Server, VMware, IT infrastructure, networking, and cloud fundamentals
+- **Programming:** Java, Python, C, C++, JavaScript, SQL, RISC-V Assembly
+- **Web development:** Spring Boot, Angular, MongoDB, REST APIs, object-oriented design, Git, Agile/Scrum
+- **Networks and security:** TCP/IP, DNS, socket programming, TLS/SSL, firewall and VPN concepts
+- **Data and applied AI:** Pandas, NumPy, Scikit-learn, Jupyter, local LLMs, LangChain, introductory multi-agent orchestration
+
+## Selected projects
+
+University coursework and challenge projects spanning software, networking, and applied AI.
 
 ### AI Agent Reply Challenge 2026
 
@@ -76,4 +93,5 @@ The work explored dead-code injection, opaque predicates, benign dummy classes, 
 ## Background
 
 - **BSc in Computer Engineering**, University of Sannio — graduated in June 2026
+- **System Administrator training, completed** — 160-hour programme funded by Forma.Temp and promoted by Gi Group: Linux Server and VMware (96 hours), IT infrastructure, networks and cloud fundamentals (32 hours), Windows Server (24 hours), and mandatory modules (8 hours)
 - **Computer Science Tutor** — supported university students with C, Java, Python, debugging, and problem solving
